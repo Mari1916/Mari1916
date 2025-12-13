@@ -1,6 +1,6 @@
-## Olaa eu sou a Mariana Freitas 👋
+## HELOOOO I'm Mariana Freitas 👋
 
-🖥️✨Sou estudante e desenvolvedora em formação, apaixonada por tecnologia, inovação e resolução de problemas por meio da programação.
+🖥️✨ I’m a student and aspiring developer who’s passionate about technology, innovation, and solving problems through code.
 
 ## Contribution Graph
 <div align="center">
