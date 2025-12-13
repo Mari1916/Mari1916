@@ -1,4 +1,8 @@
 ## HELOOOO I'm Mariana Freitas 👋
+<div align="center">
+  <img src="https://media1.tenor.com/m/mQZFpkBDzE4AAAAd/hii-hello.gif" width="400" height="200" />
+</div>
+
 
 🖥️✨ I’m a student and aspiring developer who’s passionate about technology, innovation, and solving problems through code.
 
@@ -12,6 +16,8 @@
   <br/>
 
 </div>
+
+
 
 ### Toolset
 
