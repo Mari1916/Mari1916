@@ -2,6 +2,17 @@
 
 🖥️✨Sou estudante e desenvolvedora em formação, apaixonada por tecnologia, inovação e resolução de problemas por meio da programação.
 
+## Contribution Graph
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maher-Elmair/Maher-Elmair/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maher-Elmair/Maher-Elmair/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/Maher-Elmair/Maher-Elmair/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
+  </picture>
+  <br/>
+
+</div>
+
 ### Toolset
 
 #### Languages
@@ -74,5 +85,7 @@
 
 ### Stats
 
+<h2> 📊 GitHub Stats:  </h2> 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mari1916)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=Mari1916&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
+<br/> ![](https://nirzak-streak-stats.vercel.app/?user=Mari1916&theme=radical&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mari1916&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact) 
