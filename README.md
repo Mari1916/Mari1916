@@ -1,10 +1,13 @@
 ## HELOOOO I'm Mariana Freitas 👋
-<div align="center">
-  <img src="https://media1.tenor.com/m/mQZFpkBDzE4AAAAd/hii-hello.gif" width="400" height="200" />
-</div>
+<table align="center">
+    <td>
+      🖥️✨ I’m a student and aspiring developer who’s passionate about technology, innovation, and solving problems through code.
+    </td>
+    <td>
+      <img src="https://media1.tenor.com/m/mQZFpkBDzE4AAAAd/hii-hello.gif" width="90" />
+    </td>
+</table>
 
-
-🖥️✨ I’m a student and aspiring developer who’s passionate about technology, innovation, and solving problems through code.
 
 ## Contribution Graph
 <div align="center">
