@@ -89,12 +89,3 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white" />
 </p>
-
----
-
-### Stats
-
-<h2> 📊 GitHub Stats:  </h2> 
-
-![](https://github-readme-stats.vercel.app/api?username=Mari1916&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
-<br/> ![](https://nirzak-streak-stats.vercel.app/?user=Mari1916&theme=radical&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mari1916&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact) 
